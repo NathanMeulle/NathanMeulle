@@ -15,9 +15,9 @@ I am looking for a 3-month internship in the field of software development start
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=maven&logoColor=white&color=4581E5)
 ![](https://img.shields.io/badge/Tools-Angular-informational?style=flat&logo=angular&logoColor=white&color=4581E5)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4581E5)
-  ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4581E5)
-  ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=4581E5)
-    ![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white&color=4581E5)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4581E5)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=4581E5)
+![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white&color=4581E5)
 
 
 ## Some of my Github Stats
