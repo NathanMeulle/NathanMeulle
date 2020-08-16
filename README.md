@@ -29,4 +29,4 @@ I am looking for a 3-month internship in the field of software development start
 
 ## Get in touch
 - [![Gmail Badge](https://img.shields.io/badge/-nathan.meulle@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nathan.meulle@gmail.com)](mailto:nathan.meulle@gmail.com) 
-- [![Linkedin Badge](https://img.shields.io/badge/-nathanmeulle-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanmeulle/)](https://www.linkedin.com/in/nathanmeulle/)
+- [![Linkedin Badge](https://img.shields.io/badge/-nathanmeulle-0072b1?style=flat&logo=Linkedin&logoColor=white&linkt/)](https://www.linkedin.com/in/nathan-meulle/)
