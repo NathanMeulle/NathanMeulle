@@ -1,15 +1,23 @@
 ## Hey 👋, This is Nathan Meulle  [![Github Badge](https://img.shields.io/badge/-NathanMeulle-grey?style=flat&logo=github&logoColor=white&link=https://github.com/NathanMeulle/)](https://www.github.com/NathanMeulle/) 
 
-<p align='left'>Second year student in the engineering cycle specializing in computer science 💻.
+<p align='left'>Second year student in the engineering cycle specializing in computer science 💻,
 I am looking for a 3-month internship in the field of software development starting in June 2021 📆. </p>
 
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=4581E5)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4581E5)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4581E5)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4581E5)
+![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=sonarqube&logoColor=white&color=4581E5)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4581E5)
+![](https://img.shields.io/badge/Tools-Travis-informational?style=flat&logo=travis&logoColor=white&color=4581E5)
+![](https://img.shields.io/badge/Tools-PiTest-informational?style=flat&logo=pitest&logoColor=white&color=4581E5)
+![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=maven&logoColor=white&color=4581E5)
+![](https://img.shields.io/badge/Tools-Angular-informational?style=flat&logo=angular&logoColor=white&color=4581E5)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4581E5)
+  ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4581E5)
+  ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=4581E5)
+    ![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white&color=4581E5)
 
 
 ## Some of my Github Stats
