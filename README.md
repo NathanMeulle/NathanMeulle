@@ -1,4 +1,7 @@
 ## Hey 👋, This is Nathan Meulle, [![Github Badge](https://img.shields.io/badge/-NathanMeulle-grey?style=flat&logo=github&logoColor=white&link=https://github.com/NathanMeulle/)](https://www.github.com/NathanMeulle/) 
+[![Gmail Badge](https://img.shields.io/badge/-nathan.meulle@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nathan.meulle@gmail.com)](mailto:nathan.meulle@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-nathanmeulle-0072b1?style=flat&logo=Linkedin&logoColor=white&linkt/)](https://www.linkedin.com/in/nathan-meulle/)
+🇫🇷
 
 <p align='left'>Second year student in the engineering cycle specializing in computer science 💻,
 I am looking for a 3-month internship in the field of software development starting in June 2021 📆. </p>
@@ -24,6 +27,3 @@ I am looking for a 3-month internship in the field of software development start
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=NathanMeulle&show_icons=true&include_all_commits=true)](https://github.com/NathanMeulle)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMeulle&layout=compact)](https://github.com/NathanMeulle)
-
-## Get in touch
-- [![Linkedin Badge](https://img.shields.io/badge/-nathanmeulle-0072b1?style=flat&logo=Linkedin&logoColor=white&linkt/)](https://www.linkedin.com/in/nathan-meulle/)
