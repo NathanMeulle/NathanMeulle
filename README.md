@@ -1,8 +1,6 @@
 ## Hey 👋, This is Nathan Meulle, 
 [![Linkedin Badge](https://img.shields.io/badge/-nathanmeulle-0072b1?style=flat&logo=Linkedin&logoColor=white&linkt/)](https://www.linkedin.com/in/nathan-meulle/)
-🇫🇷
-
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:nathan.meulle@gmail.com) 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:nathan.meulle@gmail.com)
 
 
 <p align='left'>Second year student in the engineering cycle specializing in computer science 💻,
