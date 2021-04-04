@@ -18,7 +18,7 @@ I am looking for a 3-month internship in the field of software development start
 ![](https://img.shields.io/badge/Tools-Travis-informational?style=flat-square&logo=travis&logoColor=white&color=4581E5)
 ![](https://img.shields.io/badge/Tools-PiTest-informational?style=flat-square&logo=pitest&logoColor=white&color=4581E5)
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat-square&logo=maven&logoColor=white&color=4581E5)
-![](https://img.shields.io/badge/Tools-VueJs-informational?style=flat-square&logo=vuejs&logoColor=white&color=4581E5)
+![](https://img.shields.io/badge/Tools-VueJs-informational?style=flat-square&logo=Vue.js&logoColor=white&color=4581E5)
 ![](https://img.shields.io/badge/Tools-Angular-informational?style=flat-square&logo=angular&logoColor=white&color=4581E5)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=4581E5)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat-square&logo=firebase&logoColor=white&color=4581E5)
