@@ -1,10 +1,20 @@
-## Hey 👋, This is Nathan Meulle, 
+## Nathan Meulle Github Page
 [![Linkedin Badge](https://img.shields.io/badge/-nathanmeulle-0072b1?style=flat-square&logo=Linkedin&logoColor=white&linkt/)](https://www.linkedin.com/in/nathan-meulle/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=flat-square)](mailto:nathan.meulle@gmail.com)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/nathan-meulle/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-meulle//" alt="LinkedIn" />
+  </a>
+    <a href="mailto:nathan.meulle@gmail.com">
+    <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&link=mailto:nathan.meulle@gmail.com//" alt="MailTo" />
+  </a>
+</p>
 
-<p align='left'>Second year student in the engineering cycle specializing in computer science 💻,
+<h3 align="center">Welcome to my profile!</h3>
+<p align="center">Second year student in the engineering cycle specializing in computer science 💻,<br>
 I am looking for a 3-month internship in the field of software development starting in June 2021 📆. </p>
+<br>
 
 
 ## 🔧 Technologies & Tools
