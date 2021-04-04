@@ -1,6 +1,4 @@
 ## Nathan Meulle Github Page
-[![Linkedin Badge](https://img.shields.io/badge/-nathanmeulle-0072b1?style=flat-square&logo=Linkedin&logoColor=white&linkt/)](https://www.linkedin.com/in/nathan-meulle/)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=flat-square)](mailto:nathan.meulle@gmail.com)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nathan-meulle/">
