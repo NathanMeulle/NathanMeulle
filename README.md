@@ -10,8 +10,7 @@
 </p>
 
 <h3 align="center">Welcome to my profile!</h3>
-<p align="center">Second year student in the engineering cycle specializing in computer science 💻,<br>
-I am looking for a 3-month internship in the field of software development starting in June 2021 📆. </p>
+<p align="center">Second year student in the engineering cycle specializing in computer science 💻</p>
 <br>
 
 
@@ -23,6 +22,7 @@ I am looking for a 3-month internship in the field of software development start
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat-square&logo=sonarqube&logoColor=white&color=4581E5)
 ![](https://img.shields.io/badge/Tools-Cucumber-informational?style=flat-square&logo=cucumber&logoColor=white&color=4581E5)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=4581E5)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4581E5)
 ![](https://img.shields.io/badge/Tools-Travis-informational?style=flat-square&logo=travis&logoColor=white&color=4581E5)
 ![](https://img.shields.io/badge/Tools-PiTest-informational?style=flat-square&logo=pitest&logoColor=white&color=4581E5)
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat-square&logo=maven&logoColor=white&color=4581E5)
@@ -38,16 +38,6 @@ I am looking for a 3-month internship in the field of software development start
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=NathanMeulle&show_icons=true&include_all_commits=true)](https://github.com/NathanMeulle)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMeulle&layout=compact)](https://github.com/NathanMeulle)
-
-##
-
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/NathanMeulle)
-
-[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://github.com/NathanMeulle)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/NathanMeulle)
-
-[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](https://github.com/NathanMeulle)
-[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/NathanMeulle)
 
 
 
