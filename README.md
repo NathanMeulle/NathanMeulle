@@ -43,7 +43,7 @@
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=NathanMeulle&theme=prussian&hide_border=true" alt="NathanMeulleStats" />
     </a>
     <a href="https://github.com/NathanMeulle">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=NathanMeulle&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true&text_color=bcdefe" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=NathanMeulle&show_icons=true&count_private=true&theme=prussian&hide_border=true&text_color=bcdefe" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
