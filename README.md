@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/-Cucumber-informational?style=flat-square&logo=cucumber&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=172f45)
-![](https://img.shields.io/badge/-Maven-informational?style=flat-square&logo=maven&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/-Maven-informational?style=flat-square&logo=apachemaven&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/-PiTest-informational?style=flat-square&logo=pitest&logoColor=white&color=172f45)
 
 ![](https://img.shields.io/badge/-Framework-ffffff?style=flat-square&logo=Plex&logoColor=black)
