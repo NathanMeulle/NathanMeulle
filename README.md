@@ -44,19 +44,17 @@
 [![VSCode](https://img.shields.io/badge/-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=172f45)](https://code.visualstudio.com/)
 [![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-informational?style=for-the-badge&logo=androidstudio&logoColor=white&color=172f45)](https://developer.android.com/studio)
 
-
 <hr>
 <h3 align="center">⚡ Stats ⚡</h3>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=NathanMeulle&theme=prussian&hide_border=true" alt="NathanMeulleStats" />
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source" style="display: inline-block;margin-right: 20px;">
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=NathanMeulle&theme=prussian&hide_border=true" alt="NathanMeulleStats" />
     </a>
-    <a href="https://github.com/NathanMeulle">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=NathanMeulle&show_icons=true&count_private=true&theme=prussian&hide_border=true&text_color=bcdefe" />
+    <a href="https://github.com/NathanMeulle" style="display: inline-block">
+      <img width=396 src="https://github-readme-stats.vercel.app/api?username=NathanMeulle&show_icons=true&count_private=true&theme=prussian&hide_border=true&text_color=bcdefe"  alt="NathanMeulleStats" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/NathanMeulle">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMeulle&title_color=bcdefe&text_color=bcdefe&icon_color=61dafb&bg_color=172f45&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
