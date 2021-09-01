@@ -1,6 +1,6 @@
 ## Nathan Meulle Github Page
 <h3 align="center">Welcome to my profile!</h3>
-<p align="center">Second year student in the engineering cycle specializing in computer science 💻</p>
+<p align="center">Third year student in the engineering cycle specializing in computer science 💻</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/nathan-meulle/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-meulle//" alt="LinkedIn" />
