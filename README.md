@@ -15,6 +15,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=172f45)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![C++](https://img.shields.io/badge/-C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=172f45)](https://isocpp.org/)
 ![C](https://img.shields.io/badge/-C-informational?style=for-the-badge&logo=c&logoColor=white&color=172f45)
+![C#](https://img.shields.io/badge/-C＃-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=172f45)
 
 ![Tools](https://img.shields.io/badge/-Tools-ffffff?style=for-the-badge&logo=Plex&logoColor=black)
 [![SonarQube](https://img.shields.io/badge/-SonarQube-informational?style=for-the-badge&logo=sonarqube&logoColor=white&color=172f45)](https://www.sonarqube.org/)
@@ -34,6 +35,9 @@
 ![Framework](https://img.shields.io/badge/-Framework-ffffff?style=for-the-badge&logo=Plex&logoColor=black)
 [![VueJs](https://img.shields.io/badge/-VueJs-informational?style=for-the-badge&logo=Vue.js&logoColor=white&color=172f45)](https://vuejs.org/)
 [![Angular](https://img.shields.io/badge/-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=172f45)](https://angular.io/)
+[![.Net](https://img.shields.io/badge/-.Net-informational?style=for-the-badge&logo=.net&logoColor=white&color=172f45)](https://dotnet.microsoft.com/)
+[![ABP](https://img.shields.io/badge/-ABP.io-informational?style=for-the-badge&logo=abp.io&logoColor=white&color=172f45)](https://abp.io/)
+
 
 ![DataBase](https://img.shields.io/badge/-DataBase-ffffff?style=for-the-badge&logo=Plex&logoColor=black)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=172f45)](https://www.postgresql.org/)
@@ -42,6 +46,7 @@
 ![Editor](https://img.shields.io/badge/-Editor-ffffff?style=for-the-badge&logo=Plex&logoColor=black)
 [![IntelliJ_IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=172f45)](https://www.jetbrains.com/fr-fr/idea/)
 [![VSCode](https://img.shields.io/badge/-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=172f45)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/-VS-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=172f45)](https://code.visualstudio.com/)
 [![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-informational?style=for-the-badge&logo=androidstudio&logoColor=white&color=172f45)](https://developer.android.com/studio)
 
 <hr>
