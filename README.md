@@ -41,6 +41,7 @@
 
 ![DataBase](https://img.shields.io/badge/-DataBase-ffffff?style=for-the-badge&logo=Plex&logoColor=black)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=172f45)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/-Mongo-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=172f45)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=172f45)](https://firebase.google.com/)
 
 ![Editor](https://img.shields.io/badge/-Editor-ffffff?style=for-the-badge&logo=Plex&logoColor=black)
