@@ -35,6 +35,7 @@
 
 ![Framework](https://img.shields.io/badge/-Framework-ffffff?style=for-the-badge&logo=Plex&logoColor=black)
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)](https://kafka.apache.org/)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-5CAB2F?style=for-the-badge&logo=springboot&logoColor=white)
 [![VueJs](https://img.shields.io/badge/-VueJs-36AF71?style=for-the-badge&logo=Vue.js&logoColor=white)](https://vuejs.org/)
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Angular](https://img.shields.io/badge/-Angular-D30026?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
