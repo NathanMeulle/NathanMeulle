@@ -43,8 +43,9 @@
 [![ABP](https://img.shields.io/badge/-ABP.io-300531?style=for-the-badge&logo=abp.io&logoColor=white)](https://abp.io/)
 
 ![DataBase](https://img.shields.io/badge/-DataBase-ffffff?style=for-the-badge&logo=Peertube&logoColor=black)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-265380?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-40A62E?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-265380?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FEC31E?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 
 ![Editor](https://img.shields.io/badge/-Editor-ffffff?style=for-the-badge&logo=Peertube&logoColor=black)
