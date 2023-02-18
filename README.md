@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/nathan-meulle/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-meulle//" alt="LinkedIn" />
   </a>
+    <a href="https://www.codingame.com/profile/f7f82d074d522b2d3a5486e39aea81b08766404/">
+     <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white&link=https://www.codingame.com/profile/f7f82d074d522b2d3a5486e39aea81b08766404//" alt="CodingGame" />
+  </a>
 </p>
 <hr>
 <h3 align="center">🔧 Technologies & Tools 🔧</h3>
