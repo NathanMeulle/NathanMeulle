@@ -1,6 +1,4 @@
-## Nathan Meulle Github Page
-<h3 align="center">Welcome to my profile!</h3>
-<p align="center">Engineer specializing in computer science 💻</p>
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=68a2c8&text=Nathan%20Meulle%20Github%20Page&height=150&fontSize=60&desc=Engineer%20specializing%20in%20computer%20science%20💻&descAlignY=75&descAlign=70)
 <p align="center">
   <a href="https://www.linkedin.com/in/nathan-meulle/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-meulle//" alt="LinkedIn" />
@@ -10,7 +8,7 @@
   </a>
 </p>
 <hr>
-<h3 align="center">🔧 Technologies & Tools 🔧</h3>
+<h3 align="center" style="font-family: Arial, Helvetica, sans-serif">🔧 Technologies & Tools 🔧</h3>
 
 ![Code](https://img.shields.io/badge/-Code-ffffff?style=for-the-badge&logo=Peertube&logoColor=black)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -49,7 +47,13 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-40A62E?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-265380?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
+[![Liquibase](https://img.shields.io/badge/-Liquibase-ff3d00?style=for-the-badge&logo=liquibase&logoColor=white)](https://www.liquibase.org/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FEC31E?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
+
+![Cloud](https://img.shields.io/badge/-Cloud-ffffff?style=for-the-badge&logo=Peertube&logoColor=black)
+[![MicrosoftAzure](https://img.shields.io/badge/-Microsoft%20Azure-65b2f8?style=for-the-badge&logo=microsoft%20azure&logoColor=white)](https://azure.microsoft.com/fr-fr)
+
+
 
 ![Editor](https://img.shields.io/badge/-Editor-ffffff?style=for-the-badge&logo=Peertube&logoColor=black)
 [![IntelliJ_IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-1564E1?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/fr-fr/idea/)
@@ -64,13 +68,13 @@
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source" style="display: inline-block;margin-right: 20px;">
       <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=NathanMeulle&theme=prussian&hide_border=true&text_color=68a2c8" alt="NathanMeulleStats" />
     </a>
-    <a href="https://github.com/NathanMeulle" style="display: inline-block">
+    <!---<a href="https://github.com/NathanMeulle" style="display: inline-block">
       <img width=396 src="https://github-readme-stats.vercel.app/api?username=NathanMeulle&show_icons=true&count_private=true&theme=prussian&hide_border=true&text_color=68a2c8"  alt="NathanMeulleStats" />
-    </a>
+    </a>-->
   </div>
   <div align=center>
     <a href="https://github.com/NathanMeulle">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMeulle&title_color=bcdefe&text_color=68a2c8&icon_color=61dafb&bg_color=172f45&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NathanMEULLE&theme=prussian&hide_border=true&text_color=68a2c8" />
     </a>
   </div>
 </p>
