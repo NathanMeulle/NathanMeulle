@@ -37,11 +37,13 @@
 ![Framework](https://img.shields.io/badge/-Framework-ffffff?style=for-the-badge&logo=Peertube&logoColor=black)
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)](https://kafka.apache.org/)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-5CAB2F?style=for-the-badge&logo=springboot&logoColor=white)
+[![.Net](https://img.shields.io/badge/-.Net-115792?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+[![ABP](https://img.shields.io/badge/-ABP.io-300531?style=for-the-badge&logo=abp.io&logoColor=white)](https://abp.io/)
+
+![Web](https://img.shields.io/badge/-Web-ffffff?style=for-the-badge&logo=Peertube&logoColor=black)
 [![VueJs](https://img.shields.io/badge/-VueJs-36AF71?style=for-the-badge&logo=Vue.js&logoColor=white)](https://vuejs.org/)
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Angular](https://img.shields.io/badge/-Angular-D30026?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![.Net](https://img.shields.io/badge/-.Net-115792?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-[![ABP](https://img.shields.io/badge/-ABP.io-300531?style=for-the-badge&logo=abp.io&logoColor=white)](https://abp.io/)
 
 ![DataBase](https://img.shields.io/badge/-DataBase-ffffff?style=for-the-badge&logo=Peertube&logoColor=black)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-40A62E?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
