@@ -55,8 +55,6 @@
 ![Cloud](https://img.shields.io/badge/-Cloud-ffffff?style=for-the-badge&logo=Peertube&logoColor=black)
 [![MicrosoftAzure](https://img.shields.io/badge/-Microsoft%20Azure-65b2f8?style=for-the-badge&logo=microsoft%20azure&logoColor=white)](https://azure.microsoft.com/fr-fr)
 
-
-
 ![Editor](https://img.shields.io/badge/-Editor-ffffff?style=for-the-badge&logo=Peertube&logoColor=black)
 [![IntelliJ_IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-1564E1?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/fr-fr/idea/)
 [![VSCode](https://img.shields.io/badge/-VSCode-2F95EF?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
