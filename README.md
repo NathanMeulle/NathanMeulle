@@ -1,8 +1,7 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=68a2c8&text=Nathan%20Meulle%20Github%20Page&height=150&fontSize=60&desc=Engineer%20specializing%20in%20computer%20science%20💻&descAlignY=75&descAlign=70)
 <p align="center">
   <a href="https://www.linkedin.com/in/nathan-meulle/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-meulle//" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-meulle//" alt="LinkedIn" /></a>
     <a href="https://www.codingame.com/profile/f7f82d074d522b2d3a5486e39aea81b08766404/">
      <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white&link=https://www.codingame.com/profile/f7f82d074d522b2d3a5486e39aea81b08766404//" alt="CodingGame" />
   </a>
@@ -37,6 +36,7 @@
 ![Framework](https://img.shields.io/badge/-Framework-ffffff?style=for-the-badge&logo=Peertube&logoColor=black)
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)](https://kafka.apache.org/)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-5CAB2F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-5CAB2F?style=for-the-badge&logo=spring&logoColor=white)
 [![.Net](https://img.shields.io/badge/-.Net-115792?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![ABP](https://img.shields.io/badge/-ABP.io-300531?style=for-the-badge&logo=abp.io&logoColor=white)](https://abp.io/)
 
@@ -51,6 +51,11 @@
 [![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
 [![Liquibase](https://img.shields.io/badge/-Liquibase-ff3d00?style=for-the-badge&logo=liquibase&logoColor=white)](https://www.liquibase.org/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FEC31E?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
+
+![IA](https://img.shields.io/badge/-IA-ffffff?style=for-the-badge&logo=Peertube&logoColor=black)
+[![Copilot](https://img.shields.io/badge/-Copilot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
+[![MicrosoftAzure](https://img.shields.io/badge/-Microsoft%20Azure-65b2f8?style=for-the-badge&logo=microsoft%20azure&logoColor=white)](https://azure.microsoft.com/fr-fr)
+
 
 ![Cloud](https://img.shields.io/badge/-Cloud-ffffff?style=for-the-badge&logo=Peertube&logoColor=black)
 [![MicrosoftAzure](https://img.shields.io/badge/-Microsoft%20Azure-65b2f8?style=for-the-badge&logo=microsoft%20azure&logoColor=white)](https://azure.microsoft.com/fr-fr)
