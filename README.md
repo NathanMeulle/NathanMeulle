@@ -78,7 +78,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source" style="display: inline-block;margin-right: 20px;">
-      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=NathanMeulle&theme=prussian&hide_border=true&text_color=68a2c8" alt="NathanMeulleStats" />
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=NathanMeulle&stroke=68a2c8&background=EDEFF4&ring=172f45&fire=0891b2&currStreakNum=68a2c8&currStreakLabel=172f45&sideNums=68a2c8&sideLabels=68a2c8&dates=68a2c8&hide_border=false" alt="NathanMeulleStats" />
     </a>
     <!---<a href="https://github.com/NathanMeulle" style="display: inline-block">
       <img width=396 src="https://github-readme-stats.vercel.app/api?username=NathanMeulle&show_icons=true&count_private=true&theme=prussian&hide_border=true&text_color=68a2c8"  alt="NathanMeulleStats" />
@@ -86,7 +86,7 @@
   </div>
   <div align=center>
     <a href="https://github.com/NathanMeulle">
-      <img width=325 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NathanMEULLE&theme=prussian&hide_border=true&text_color=68a2c8" />
+      <img width=325 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NathanMEULLE&theme=nord_bright" />
     </a>
   </div>
 </p>
